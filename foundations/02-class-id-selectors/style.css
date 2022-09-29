@@ -1,0 +1,8 @@
+.odd {
+    background-color: pink;
+    font-family: 'Vardana' 'DejaVu Sans' 'sans-serif';
+
+}
+.odd.font-size {
+    font-size: 24px;
+}
