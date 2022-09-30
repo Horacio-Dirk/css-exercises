@@ -1,0 +1,14 @@
+.nocolor
+.color {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
+
+.nocolor {
+    background-color: rgb(0, 0, 0);
+    color: #ffffff;
+}
+
+.color{
+    background-color: hsl(60, 100%, 50%);
+}
